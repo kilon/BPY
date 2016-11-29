@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "kilonAlios 7/28/2015 23:22",
+	"super" : "TestCase",
+	"category" : "BPY",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EphPyTypeTest",
+	"type" : "normal"
+}

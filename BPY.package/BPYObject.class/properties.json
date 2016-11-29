@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "kilonAlios 7/28/2015 23:43",
+	"super" : "Object",
+	"category" : "BPY",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "BPYObject",
+	"type" : "normal"
+}
