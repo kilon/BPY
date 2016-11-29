@@ -6,8 +6,8 @@ baseline: spec
 		do:
 			[
 			spec
-				baseline: 'Atlas' with: [ spec repository: 'github://kilonr/Atlas' ];
+				baseline: 'Atlas' with: [ spec repository: 'github://kilon/Atlas' ];
 				import: 'Atlas' provides: #('default').
 				 
-			spec package: 'Atlas'	with: [ spec requires: 'default' ]. 
+			spec package: 'BPY'	with: [ spec requires: 'default' ]. 
  ]	
